@@ -100,7 +100,7 @@
 ![ERD](diagrams/erd/erd_delta_v.png)
 
 ### UML Диаграмма компонентов
-![UML Component Diagram](diagrams/component/component_diagram.png)
+![UML Component Diagram](diagrams/component/сomponent_diagram.png)
 
 ### UML Диаграмма последовательности
 
