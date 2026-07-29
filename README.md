@@ -88,3 +88,31 @@
 ## Контекст проекта
 
 Продукт был разработан в 2025 году и не вышел в стадию разработки из-за разногласий по стоимости реализации. В 2026 году исходное ТЗ переработано в полноценную спецификацию требований как портфолио-проект по системному анализу.
+
+---
+
+## Диаграммы
+
+### BPMN - Процесс оформления услуги
+![BPMN](diagrams/bpmn/service_ordering_process.png)
+
+### ERD
+![ERD](diagrams/erd/erd_delta_v.png)
+
+### UML Диаграмма компонентов
+![UML Component Diagram](diagrams/component/component_diagram.png)
+
+### UML Диаграмма последовательности
+
+#### Авторизация/регистрация
+![UML Sequence Diagram auth](diagrams/sequence/auth_sms.png)
+
+#### Оформление услуги с расписанием
+![UML Sequence Diagram order scheduled](diagrams/sequence/order_scheduled.png)
+
+#### Оформление услуги без расписания
+![UML Sequence Diagram application no schedule](diagrams/sequence/application_no_schedule.png)
+
+### USE CASE
+![USE CASE](diagrams/use_case/use_case_delta_v.png)
+
